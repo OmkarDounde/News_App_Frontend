@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
     <img src="src/assets/preview/logo.png" width="150">
 </p>
 
@@ -72,4 +72,4 @@ This project use [Hero Icons](https://heroicons.com/) and [Hero Patterns](https:
 
 #### Disclaimer
 The Tailwind name and logos are trademarks of Tailwind Labs Inc.
-The Angular name and logos are trademarks of Google.
+The Angular name and logos are trademarks of Google. -->
